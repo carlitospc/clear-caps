@@ -29,6 +29,6 @@ Func Fuction01($text)
 EndFunc
 
 Func MyMessage()
-    TrayTip("Archivos temporales","Listo..", -1)
+    TrayTip("clear.caps","Ready..", -1)
 EndFunc
 
